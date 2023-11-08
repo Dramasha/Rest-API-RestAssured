@@ -37,4 +37,6 @@ tasks.withType(Test) {
             exceptionFormat "short"
         }
     }
-}
+    tasks.test
+        useJUnitPlatform({includeTags("restApi")})
+    }
