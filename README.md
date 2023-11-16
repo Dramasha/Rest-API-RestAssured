@@ -23,7 +23,7 @@
 - ✓ Обновление данных пользователя
 - ✓ Удаление пользователя
 
-## <img src="images/logos/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Homework20/3/allure/"> Jenkins </a>
+## <img src="images/logos/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Homework20"> Jenkins </a>
 <p align="center">
 <a href="https://jenkins.autotests.cloud/job/Homework20/"><img src="images/screenshots/JenkinsReport.jpg" alt="Jenkins1"/></a>
 </p>
