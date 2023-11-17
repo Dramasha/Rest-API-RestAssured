@@ -67,6 +67,8 @@ gradle clean test
 <img title="Allure Tests" src="images/screenshots/AllureTOrunning.jpg">
 </p>
 
+--- 
+
 ## <img src="images/logos/Telegram.svg" width="25" height="25"  alt="Telegram"/></a> Уведомления в телеграм с использованием бота
 После завершения сборки специальный бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет сообщение с отчетом пройденых тестов.
 
