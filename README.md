@@ -15,6 +15,8 @@
 <a href="https://https://telegram.org/"><img src="images/logos/Telegram.svg" width="50" height="50"  alt="Telegram"/></a>
 </p>
 
+--- 
+
 ## Реализованные проверки
 
 - ✓ Регистрация пользователя
@@ -22,6 +24,8 @@
 - ✓ Проверка данных пользователя в общем списке пользователей
 - ✓ Обновление данных пользователя
 - ✓ Удаление пользователя
+
+--- 
 
 ## <img src="images/logos/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Homework20"> Jenkins </a>
 <p align="center">
@@ -31,10 +35,14 @@
 значки <code>Allure Report</code> и <code>Allure TestOps</code>, при клике на которые откроется страница 
 с сформированным html-отчетом и тестовой документацией соответственно.
 
+--- 
+
 ## 🤖 Пример отчета прохождения автотеста
 <p align="center">
 <img title="AllureSuite" src="images/screenshots/Allure.jpg">
 </p>
+
+--- 
 
 ##  Запуск тестов из терминала
 Команда запуска тестов:
@@ -48,7 +56,10 @@ gradle clean test
 <img title="Allure Overview" src="images/screenshots/AllureReport.jpg">
 </p>
 
+--- 
+
 ## <img src="images/logos/AllureTestOps.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с  <a target="_blank" href="https://allure.autotests.cloud/project/3795/dashboards"> Allure TestOps</a>
+--- 
 
 ## Доска
 На *Dashboard* в <code>Allure TestOps</code> видна статистика количества тестов. Новые тесты, а так же результаты прогона приходят по интеграции при каждом запуске сборки.
@@ -57,10 +68,14 @@ gradle clean test
 <img title="Allure TestOps DashBoard" src="images/screenshots/AllureTO.jpg">
 </p>
 
+--- 
+
 ##  Пример тест-кейса
 <p align="center">
 <img title="AllureTC" src="images/screenshots/AllureTOtestCase.jpg">
 </p>
+
+--- 
 
 ## 🏃 Запуски
 <p align="center">
