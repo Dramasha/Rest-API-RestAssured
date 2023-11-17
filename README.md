@@ -59,7 +59,6 @@ gradle clean test
 --- 
 
 ## <img src="images/logos/AllureTestOps.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с  <a target="_blank" href="https://allure.autotests.cloud/project/3795/dashboards"> Allure TestOps</a>
---- 
 
 ## Доска
 На *Dashboard* в <code>Allure TestOps</code> видна статистика количества тестов. Новые тесты, а так же результаты прогона приходят по интеграции при каждом запуске сборки.
