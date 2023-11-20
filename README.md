@@ -1,7 +1,7 @@
 <h1 >Проект по автоматизации тестирования API сервиса <a href="https://reqres.in/"> Reqres</a></h1>
 <a href="https://reqres.in/"><img  src="images/screenshots/Reqresin.png"></a>
 
-## What I use 💻
+##  💻 Что я использую
 
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="images/logos/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a>
