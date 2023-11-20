@@ -18,14 +18,17 @@
 ---
 ## Содержание проекта
 
-- [Реализованные проверки](#Реализованные-проверки)
-- [Cборка в Jenkins](#-cборка-Jenkins)
-- [Пример Allure отчета](#-пример-Allure-отчета)
-- [Интеграция с Allure TestOps](#-интеграция-с-Allure-TestOps)
+- <a href="#check"> Реализованные проверки</a>
+- <a href="#buildJenkins"> Cборка в Jenkins</a>
+- <a href="#exampleReport"> Пример отчета прохождения автотеста</a>
+- <a href="#allureReport"> Пример Allure отчета</a>
+- <a href="#integrationAllureTO"> Интеграция с Allure TestOps</a>
+- <a href="#telegramReport"> Уведомления в телеграм с использованием бота</a>
 - [Уведомления в телеграм с использованием бота](#Telegram-Уведомления-в-телеграм-с-использованием-бота)
 
 --- 
 
+<a id="check"></a>
 ## Реализованные проверки
 
 - ✓ Регистрация пользователя
@@ -36,6 +39,7 @@
 
 --- 
 
+<a id="buildJenkins"></a>
 ## <img src="images/logos/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка [Jenkins](https://jenkins.autotests.cloud/job/Homework20")
 <p align="center">
 <a href="https://jenkins.autotests.cloud/job/Homework20/"><img src="images/screenshots/JenkinsReport.jpg" alt="Jenkins1"/></a>
@@ -46,6 +50,7 @@
 
 --- 
 
+<a id="exampleReport"></a>
 ## 🤖 Пример отчета прохождения автотеста
 <p align="center">
 <img title="AllureSuite" src="images/screenshots/Allure.jpg">
@@ -59,7 +64,7 @@
 gradle clean test
 ```
 <a id="allureReport"></a>
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="images/logos/Allure.svg"> </a> Пример <a target="_blank" href="https://jenkins.autotests.cloud/job/Homework20/3/allure/"> Allure-отчета </a>
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="images/logos/Allure.svg"> </a> Пример [Allure-отчета](https://jenkins.autotests.cloud/job/Homework20/3/allure/) 
 ## ⛅: Основной отчет
 <p align="center">
 <img title="Allure Overview" src="images/screenshots/AllureReport.jpg">
@@ -67,7 +72,8 @@ gradle clean test
 
 --- 
 
-## <img src="images/logos/AllureTestOps.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с  <a target="_blank" href="https://allure.autotests.cloud/project/3795/dashboards"> Allure TestOps</a>
+<a id="integrationAllureTO"></a>
+## <img src="images/logos/AllureTestOps.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с  [Allure testOps](ttps://allure.autotests.cloud/project/3795/dashboards)
 
 ## Доска
 На *Dashboard* в <code>Allure TestOps</code> видна статистика количества тестов. Новые тесты, а так же результаты прогона приходят по интеграции при каждом запуске сборки.
@@ -92,6 +98,7 @@ gradle clean test
 
 --- 
 
+<a id="telegramReport"></a>
 ## <img src="images/logos/Telegram.svg" width="25" height="25"  alt="Telegram"/></a> Уведомления в телеграм с использованием бота
 После завершения сборки специальный бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет сообщение с отчетом пройденых тестов.
 
