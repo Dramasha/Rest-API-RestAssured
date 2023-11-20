@@ -15,6 +15,16 @@
 <a href="https://https://telegram.org/"><img src="images/logos/Telegram.svg" width="50" height="50"  alt="Telegram"/></a>
 </p>
 
+---
+## Содержание проекта
+
+- [Реализованные проверки](#Реализованные-проверки)
+- [Пошаговый информативный отчет в Jenkins](#Jenkins-Сборка-в-Jenkins)
+- [Интеграция с Allure](#Allure-Report-Пример-Allure-отчета)
+- [Интеграция с Allure TestOps](#Allure_TO-Интеграция-с-Allure-TestOps)
+- [Уведомление с отчетом о прохождении тестов в Telegram](#Telegram-Уведомления-в-телеграм-с-использованием-бота)
+
+
 --- 
 
 ## Реализованные проверки
