@@ -15,6 +15,15 @@
 <a href="https://https://telegram.org/"><img src="images/logos/Telegram.svg" width="50" height="50"  alt="Telegram"/></a>
 </p>
 
+---
+## Содержание проекта
+
+- [Реализованные проверки](#Реализованные-проверки)
+- [Cборка в Jenkins](#-cборка-Jenkins)
+- [Пример Allure отчета](#-пример-Allure-отчета)
+- [Интеграция с Allure TestOps](#-интеграция-с-Allure-TestOps)
+- [Уведомления в телеграм с использованием бота](#Telegram-Уведомления-в-телеграм-с-использованием-бота)
+
 --- 
 
 ## Реализованные проверки
@@ -27,7 +36,7 @@
 
 --- 
 
-## <img src="images/logos/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Homework20"> Jenkins </a>
+## <img src="images/logos/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка [Jenkins](https://jenkins.autotests.cloud/job/Homework20")
 <p align="center">
 <a href="https://jenkins.autotests.cloud/job/Homework20/"><img src="images/screenshots/JenkinsReport.jpg" alt="Jenkins1"/></a>
 </p>
